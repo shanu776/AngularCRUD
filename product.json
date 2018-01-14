@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Maptop",
+      "price": "40000"
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "price": "400"
+    },
+    {
+      "id": 3,
+      "name": "Keybord",
+      "price": "500"
+    },
+    {
+      "name": "Earphone",
+      "price": "1500",
+      "id": 4
+    }
+  ]
+}
